@@ -16,7 +16,7 @@ import pe.edu.pacagroup.laboratorio3_2.service.impl.AlumnoServiceImpl;
  * @author Java
  */
 public class AlumnoServiceTest extends TestCase {
-    
+    String nombre = "Prueba3";
     AlumnoDao alumnoDaoMock;
     
     public AlumnoServiceTest(String testName) {
