@@ -12,6 +12,7 @@ import java.util.List;
  * @author Java
  */
 public interface AlumnoService {
+	int cambio = 0;
     public List<String> dameAlumnosMayuscula();
     public String generaBienvenida(Long idAlumno);
 }
