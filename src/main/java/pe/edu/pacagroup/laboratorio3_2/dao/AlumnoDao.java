@@ -12,7 +12,7 @@ import java.util.List;
  * @author Java
  */
 public interface AlumnoDao {
-	int cambio3 = 0;
+	int cambio4 = 0;
     public List<String> encontrarAlumnos();
     public String dameAlumno(Long idAlumno);
 }
